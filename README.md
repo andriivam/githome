@@ -1,4 +1,4 @@
-# githome
+# git home
 
 My profile for work training
 
